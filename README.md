@@ -1,4 +1,4 @@
-# bert-finetuned-bpmn
+# Finetuning BERT
  
 [https://huggingface.co/jtlicardo/bert-finetuned-bpmn](https://huggingface.co/jtlicardo/bert-finetuned-bpmn)
  
